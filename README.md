@@ -25,5 +25,5 @@ A **Random Forest** is an ensemble learning method that builds multiple decision
 ## 📦 Installation
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/random-forest-classifier.git
-cd random-forest-classifier
+git clone https://github.com/idilsevinc/LearningMachineLearningheh.git
+cd LearningMachineLearning
